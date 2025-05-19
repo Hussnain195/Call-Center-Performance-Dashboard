@@ -9,11 +9,13 @@ This interactive Power BI dashboard provides key insights into call center opera
 
 ## 📊 Dashboard Preview
 
-![https://github.com/Hussnain195/Call-Center-Performance-Dashboard/blob/main/Call%20Center%20Productivity.png]
+![Dashboard Screenshot](https://github.com/Hussnain195/Call-Center-Performance-Dashboard/blob/main/Call%20Center%20Productivity.png?raw=true)
 
 ## 📥 Download the .PBIX file
 
-[https://github.com/Hussnain195/Call-Center-Performance-Dashboard/blob/main/Call%20Center%20Performance%20Dashboard.pbix]
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/Hussnain195/Call-Center-Performance-Dashboard/blob/main/Call%20Center%20Productivity.png?raw=true)
 ---
 
 ## 🔗 Author
